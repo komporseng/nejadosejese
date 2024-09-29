@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://nejadosejese.netlify.app/sitemap.xml
